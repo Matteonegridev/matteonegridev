@@ -1,45 +1,46 @@
-# 👋 Hi there! I'm [Your Name] 👨‍💻
+# 👋 Hi there! I'm Matteo 👨‍💻
 
-I'm a passionate **Web Developer** specializing in creating dynamic and user-friendly web applications. I love coding, learning new technologies, and building projects that make a difference.
+I'm a passionate **Web Developer** specializing in creating dynamic and user-friendly web applications and crypto enthusiast. I love coding, learning new technologies, and building projects that make a difference.
+
+
+
+## Technologies:       
+   <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  title="Tailwind" alt="React" width="40" height="40"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="SASS" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="React" width="40" height="40"/>&nbsp;      
+</div>
+
 
 ## 🌐 Connect with Me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:yourname@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:matteonegridev@gmail.com)
 
----
-
-## 🚀 Skills:
-- **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS, Vue.js
-- **Backend:** Node.js, Express, Python (Django/Flask), PHP
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Git, GitHub, Webpack, Docker
 
 ---
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<div style="display:flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=matteonegridev&show_icons=true&theme=tokyonight" alt="GitHub stats" height="200px"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteonegridev&layout=compact&theme=tokyonight" alt="Top Langs" height="200px" />
+</div>
 
 ---
+
 
 ## 🛠️ Favorite Projects:
-- 🖥️ [Awesome Project 1](https://github.com/yourusername/project1)  
-   *Brief description of the project and its features.*
-- 🌐 [Cool Website](https://yourwebsite.com)  
-   *A live demo of one of your best projects.*
-- 📱 [Another Cool App](https://github.com/yourusername/project2)  
-   *Details about this app and why it's awesome.*
+- 🖥️ [GreenPrints](https://github.com/Matteonegridev/GreenPrints)  
+   *Calculate your CO2 emissions given a flight route*
+- 🌐 [MeisApp](https://meisapp.netlify.app/)  
+   *A simple UI app for relaxing and sleep*
+- 📱 [CV Builder](https://github.com/Matteonegridev/CV-builder)  
+   
 
----
-
-## 🌟 Fun Facts:
-- 💡 I'm currently learning **Next.js** and **GraphQL**.
-- 🎯 My goal for this year is to contribute to open-source.
-- 🌈 Fun fact: I love solving Rubik's Cubes and hiking!
-
----
 
 ### ✍️ Quote of the Day:
 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
