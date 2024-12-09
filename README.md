@@ -38,7 +38,7 @@ I'm a passionate **Web Developer** specializing in creating dynamic and user-fri
    *Calculate your CO2 emissions given a flight route*
 - 🌐 [MeisApp](https://meisapp.netlify.app/)  
    *A simple UI app for relaxing and sleep*
-- 📱 [CV Builder](https://github.com/Matteonegridev/CV-builder)  
+- 📱 [CV Builder](https://jobresumemaker.netlify.app/)  
    
 
 
