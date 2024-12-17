@@ -39,7 +39,7 @@ I'm a passionate **Web Developer** specializing in creating dynamic and user-fri
 - 🌐 [MeisApp](https://meisapp.netlify.app/)  
    *A simple UI app for relaxing and sleep*
 - 📱 [CV Builder](https://jobresumemaker.netlify.app/)
-  *Build easily uour resume and get hired!
+   *Build easily uour resume and get hired!*
    
 
 
