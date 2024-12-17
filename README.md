@@ -34,11 +34,12 @@ I'm a passionate **Web Developer** specializing in creating dynamic and user-fri
 
 
 ## 🛠️ Favorite Projects:
-- 🖥️ [GreenPrints](https://github.com/Matteonegridev/GreenPrints)  
+- 🖥️ [GreenPrints](https://greenprints.netlify.app/)
    *Calculate your CO2 emissions given a flight route*
 - 🌐 [MeisApp](https://meisapp.netlify.app/)  
    *A simple UI app for relaxing and sleep*
-- 📱 [CV Builder](https://jobresumemaker.netlify.app/)  
+- 📱 [CV Builder](https://jobresumemaker.netlify.app/)
+  *Build easily uour resume and get hired!
    
 
 
