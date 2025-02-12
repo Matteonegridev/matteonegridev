@@ -39,8 +39,11 @@ I'm a passionate **Web Developer** specializing in creating dynamic and user-fri
    *Calculate your CO2 emissions given a flight route*
 - 🌐 [MeisApp](https://meisapp.netlify.app/)  
    *A simple UI app for relaxing and sleep*
+- 💭 [GamingLorem](https://gaminglorem.netlify.app/)  
+   *multi step form validation: Solution coming from front-end mentor*
 - 📱 [CV Builder](https://jobresumemaker.netlify.app/)
    *Build easily your resume and get hired!*
+
    
 
 
