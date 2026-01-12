@@ -27,8 +27,8 @@ I'm a passionate **Web Developer** specializing in creating dynamic and user-fri
 
 ## 📊 GitHub Stats:
 <div style="display:flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=matteonegridev&show_icons=true&theme=tokyonight" alt="GitHub stats" height="200px"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteonegridev&layout=compact&theme=tokyonight" alt="Top Langs" height="300px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matteonegridev&show_icons=true&theme=synthwave" alt="GitHub stats" height="200px"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteonegridev&layout=compact&theme=synthwave" alt="Top Langs" height="300px" />
 </div>
 
 ---
