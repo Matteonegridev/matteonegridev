@@ -37,7 +37,7 @@ I'm a passionate **Web Developer** specializing in creating dynamic and user-fri
 
 ---
 ## Check my error kit for Vue repo:
-[Repo](https://github.com/Matteonegridev/vue-error-kit)
+- 🚀 [vue-error-kit](https://github.com/Matteonegridev/vue-error-kit)
 
 ## 🛠️ Favorite Projects:
 - 🖥️ [GreenPrints](https://greenprints.netlify.app/)
