@@ -1,8 +1,10 @@
-# 👋 Hi there! I'm Matteo 👨‍💻
+##Welcome, I'm Matteo 👨‍💻
 
-I'm a passionate **Web Developer** specializing in creating dynamic and user-friendly web applications and crypto enthusiast. I love coding, learning new technologies, and building projects that make a difference.
+I’m a **Web Developer** based in London, currently working at **Dexters**. 
 
-
+* 🛠️ Main focus: Frontend development with **Vue.js**
+* 🪙 Interests: Threejs, WebGL, UI/UX design, and crypto/web3
+* 🔭 Currently building: Interactive web apps and personal side projects
 
 ## Technologies:       
    <div align="center">
